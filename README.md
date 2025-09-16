@@ -6,7 +6,8 @@ Built with **HTML, CSS, JS and Bootstrap** to ensure clean design, scalability, 
 ---
 
 ## 📸 Preview
-<img width="1920" height="5232" alt="image" src="https://github.com/user-attachments/assets/114304f7-58cd-4192-9b4f-c6fa2d6b02df" />
+<img width="1920" height="5232" alt="image" src="https://github.com/user-attachments/assets/d58165ec-5327-4194-ac4f-fe5ac2a00d1e" />
+
 
 
 ---
@@ -18,7 +19,7 @@ Built with **HTML, CSS, JS and Bootstrap** to ensure clean design, scalability, 
 - 🧩 Structured sections:
   - Hero Section  
   - Key Learning Objectives  
-  - Speaker Highlight  
+  - Pricing Section  
   - Footer  
 
 ---
